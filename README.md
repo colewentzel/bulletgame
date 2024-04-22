@@ -1,2 +1,2 @@
 # bulletgame
-A simple game with scaling difficulty, written entirely in Basic.
+A simple game for one or two players with scaling difficulty, written entirely in Basic.
