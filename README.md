@@ -1,2 +1,4 @@
 # bulletgame
-A simple game for one or two players with scaling difficulty, written entirely in Basic.
+A bullet dodging game with scaling difficulty, written entirely in BASIC. 
+
+Video demo: https://youtu.be/EHTAY9Ia86k
